@@ -1,0 +1,20 @@
+c:\users\mrt_b\source\repos\At Yarışı App\At Yarışı App\bin\Debug\At Yarışı App.exe.config
+c:\users\mrt_b\source\repos\At Yarışı App\At Yarışı App\bin\Debug\At Yarışı App.exe
+c:\users\mrt_b\source\repos\At Yarışı App\At Yarışı App\bin\Debug\At Yarışı App.pdb
+c:\users\mrt_b\source\repos\At Yarışı App\At Yarışı App\obj\Debug\At Yarışı App.csprojAssemblyReference.cache
+c:\users\mrt_b\source\repos\At Yarışı App\At Yarışı App\obj\Debug\At_Yarışı_App.Form1.resources
+c:\users\mrt_b\source\repos\At Yarışı App\At Yarışı App\obj\Debug\At_Yarışı_App.Properties.Resources.resources
+c:\users\mrt_b\source\repos\At Yarışı App\At Yarışı App\obj\Debug\At Yarışı App.csproj.GenerateResource.cache
+c:\users\mrt_b\source\repos\At Yarışı App\At Yarışı App\obj\Debug\At Yarışı App.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\At Yarışı App\At Yarışı App\obj\Debug\At Yarışı App.exe
+c:\users\mrt_b\source\repos\At Yarışı App\At Yarışı App\obj\Debug\At Yarışı App.pdb
+G:\03 - Cloud\01 - Sky Drive\OneDrive\01 - Industryolog Academy\08 - Academy Software\01 - Projects\01 - C# Online Eğitimi 1 Projeler\05 - At Yarışı App\At Yarışı App\bin\Debug\At Yarışı App.exe.config
+G:\03 - Cloud\01 - Sky Drive\OneDrive\01 - Industryolog Academy\08 - Academy Software\01 - Projects\01 - C# Online Eğitimi 1 Projeler\05 - At Yarışı App\At Yarışı App\bin\Debug\At Yarışı App.exe
+G:\03 - Cloud\01 - Sky Drive\OneDrive\01 - Industryolog Academy\08 - Academy Software\01 - Projects\01 - C# Online Eğitimi 1 Projeler\05 - At Yarışı App\At Yarışı App\bin\Debug\At Yarışı App.pdb
+G:\03 - Cloud\01 - Sky Drive\OneDrive\01 - Industryolog Academy\08 - Academy Software\01 - Projects\01 - C# Online Eğitimi 1 Projeler\05 - At Yarışı App\At Yarışı App\obj\Debug\At Yarışı App.csprojAssemblyReference.cache
+G:\03 - Cloud\01 - Sky Drive\OneDrive\01 - Industryolog Academy\08 - Academy Software\01 - Projects\01 - C# Online Eğitimi 1 Projeler\05 - At Yarışı App\At Yarışı App\obj\Debug\At_Yarışı_App.Form1.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\01 - Industryolog Academy\08 - Academy Software\01 - Projects\01 - C# Online Eğitimi 1 Projeler\05 - At Yarışı App\At Yarışı App\obj\Debug\At_Yarışı_App.Properties.Resources.resources
+G:\03 - Cloud\01 - Sky Drive\OneDrive\01 - Industryolog Academy\08 - Academy Software\01 - Projects\01 - C# Online Eğitimi 1 Projeler\05 - At Yarışı App\At Yarışı App\obj\Debug\At Yarışı App.csproj.GenerateResource.cache
+G:\03 - Cloud\01 - Sky Drive\OneDrive\01 - Industryolog Academy\08 - Academy Software\01 - Projects\01 - C# Online Eğitimi 1 Projeler\05 - At Yarışı App\At Yarışı App\obj\Debug\At Yarışı App.csproj.CoreCompileInputs.cache
+G:\03 - Cloud\01 - Sky Drive\OneDrive\01 - Industryolog Academy\08 - Academy Software\01 - Projects\01 - C# Online Eğitimi 1 Projeler\05 - At Yarışı App\At Yarışı App\obj\Debug\At Yarışı App.exe
+G:\03 - Cloud\01 - Sky Drive\OneDrive\01 - Industryolog Academy\08 - Academy Software\01 - Projects\01 - C# Online Eğitimi 1 Projeler\05 - At Yarışı App\At Yarışı App\obj\Debug\At Yarışı App.pdb
